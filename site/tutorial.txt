@@ -8,4 +8,7 @@ git commit -m msg
 git push
 
 
+https://saladinogw.github.io/temporario0000/site/
+
 git add . && git commit -m "auto msg" && git push
+
