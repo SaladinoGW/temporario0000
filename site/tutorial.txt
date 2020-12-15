@@ -1,0 +1,8 @@
+git clone <url>
+git status
+git checkout gh-pages
+<adiciona algo>
+git status
+git add . 
+git commit -m msg 
+git push
